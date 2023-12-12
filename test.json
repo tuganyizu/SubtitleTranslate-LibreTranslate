@@ -1,0 +1,7 @@
+{
+    "q": "实时字幕翻译测试。PotPlayer can support online translation.",
+    "source": "auto",
+    "target": "zh-CN",
+    "format": "text",
+    "api_key": ""
+}
